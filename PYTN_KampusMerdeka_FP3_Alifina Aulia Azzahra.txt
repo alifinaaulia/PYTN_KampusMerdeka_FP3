@@ -1,4 +1,4 @@
 Nama		: Alifina Aulia Azzahra
 No - Peserta: PYTN-KS07-004
-Link		: 1. Github = https://github.com/wanwhasonia/PYTN_KampusMerdeka_FP3.git
+Link		: 1. Github = https://github.com/alifinaaulia/PYTN_KampusMerdeka_FP3.git
               2. Streamlit = https://wanwhasonia-pytn-kampusmerdeka-fp3-streamlitapi-jt42he.streamlit.app/
